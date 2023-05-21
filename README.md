@@ -32,3 +32,5 @@ This program is a comprehensive solution that leverages the power of artificial 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+![powered-by-openai](https://github.com/AverWasTaken/ConvoGPT/assets/66864263/e0ddb29e-7a1c-4b45-91e1-77608b61f61c)
